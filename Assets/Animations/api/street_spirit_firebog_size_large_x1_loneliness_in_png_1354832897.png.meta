@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: ae069eb952375d646bd4d2441ee4a4a4
+timeCreated: 1490453800
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_0
+    21300002: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_1
+    21300004: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_2
+    21300006: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_3
+    21300008: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_4
+    21300010: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_5
+    21300012: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_6
+    21300014: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_7
+    21300016: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_8
+    21300018: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_9
+    21300020: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_10
+    21300022: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_11
+    21300024: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_12
+    21300026: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_13
+    21300028: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_14
+    21300030: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_15
+    21300032: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_16
+    21300034: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_0
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 629
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 605
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 585
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 570
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 375
+        width: 165
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 369
+        width: 179
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 366
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_7
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 367
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_8
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 370
+        width: 175
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 191
+        width: 169
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 196
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_12
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 195
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_13
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 194
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 8
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_16
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 8
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: street_spirit_firebog_size_large_x1_loneliness_in_png_1354832897_17
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 8
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

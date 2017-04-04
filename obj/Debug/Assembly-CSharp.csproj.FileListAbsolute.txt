@@ -1,0 +1,90 @@
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEditor.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEditor.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\obj\Debug\Assembly-CSharp.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.02\obj\Debug\Assembly-CSharp.pdb
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEditor.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEditor.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\obj\Debug\Assembly-CSharp.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev1 -03\Glitch Garden V.03 rev1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\obj\Debug\Assembly-CSharp.dll
+C:\Users\amir\Documents\Unity Project\Glitch Garden V.03 rev2 -04\Glitch Garden V.03 rev2\obj\Debug\Assembly-CSharp.pdb
+E:\GAME\Glitch Garden V.03 rev4\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\GAME\Glitch Garden V.03 rev4\obj\Debug\Assembly-CSharp.dll
+E:\GAME\Glitch Garden V.03 rev4\obj\Debug\Assembly-CSharp.pdb

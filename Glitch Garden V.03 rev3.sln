@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6BBF34EE-9FA2-E43C-B39E-10A68C74DE19}") = "Glitch Garden V.03 rev3", "Assembly-CSharp.csproj", "{A64C1EFA-8338-CA5F-A426-E6C69210A000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64C1EFA-8338-CA5F-A426-E6C69210A000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64C1EFA-8338-CA5F-A426-E6C69210A000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64C1EFA-8338-CA5F-A426-E6C69210A000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64C1EFA-8338-CA5F-A426-E6C69210A000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
